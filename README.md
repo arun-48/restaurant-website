@@ -1,2 +1,2 @@
 # restaurant-website
-A restaurant website built using HTML, CSS, and JavaScript for desktop screens.
+A desktop-only restaurant website built using HTML, CSS, and JavaScript with interactive features.
